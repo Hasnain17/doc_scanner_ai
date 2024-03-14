@@ -1,5 +1,7 @@
 # Demo App: Document Scanner AI
 
+https://developers.google.com/static/ml-kit/images/vision/doc-scanner/mode_base.png
+
 This is a demo Android application showcasing the integration of Google's ML Kit Vision Document Scanner. The application allows users to scan documents using their device's camera and save the scanned pages as either JPEG images or a PDF file.
 
 ## Features
