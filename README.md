@@ -41,9 +41,6 @@ To run the application locally, follow these steps:
 
 Contributions are welcome! If you'd like to enhance the functionality of this application or fix any issues, feel free to submit a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
